@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708508100521",
+    "firebase_url": "x",
+    "project_id": "glstoreapp",
+    "storage_bucket": "glstoreapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708508100521:android:cf17f3f5434ea14dd546b8",
+        "android_client_info": {
+          "package_name": "com.pro.electronic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNQzyT0I_hLB-5vRJTdso5HgVPDHs8to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
